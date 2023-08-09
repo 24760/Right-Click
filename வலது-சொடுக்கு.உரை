@@ -1,6 +1,6 @@
 # வலது-சொடுக்கு
 
-- git submodule add https://github.com/247i/Git-Ext-Merge.git அறிவிலிநீட்டிப்புகளிணை
+- git submodule add https://github.com/24760/Git-Ext-Merge.git அறிவிலிநீட்டிப்புகளிணை
 - git submodule add https://github.com/247i/7z32.git 7ஃ32
 - git submodule add https://github.com/247i/7z64.git 7ஃ64
 - git submodule add https://github.com/247i/FastCopy.git நகல்வேகம்
