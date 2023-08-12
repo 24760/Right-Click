@@ -13,3 +13,6 @@
 [submodule "நகல்பெரிய"]
 	path = நகல்பெரிய
 	url = https://github.com/247i/TeraCopy.git
+[submodule "7ஃ64"]
+	path = 7ஃ64
+	url = https://github.com/247i/7z64.git
