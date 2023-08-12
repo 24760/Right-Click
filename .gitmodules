@@ -1,0 +1,15 @@
+[submodule "அறிவிலிநீட்டிஇணை"]
+	path = அறிவிலிநீட்டிஇணை
+	url = https://github.com/24760/Git-Ext-Merge.git
+[submodule "7ஃ32"]
+	path = 7ஃ32
+	url = https://github.com/247i/7z32.git
+[submodule "நகல்வேகம்"]
+	path = நகல்வேகம்
+	url = https://github.com/247i/FastCopy.git
+[submodule "பட்டாணிசுருக்கு"]
+	path = பட்டாணிசுருக்கு
+	url = https://github.com/247i/PeaZip.git
+[submodule "நகல்பெரிய"]
+	path = நகல்பெரிய
+	url = https://github.com/247i/TeraCopy.git
