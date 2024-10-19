@@ -16,3 +16,6 @@
 [submodule "7ஃ64"]
 	path = 7ஃ64
 	url = https://github.com/247i/7z64.git
+[submodule "7ஃ"]
+	path = 7ஃ
+	url = https://github.com/247i/7z.git
