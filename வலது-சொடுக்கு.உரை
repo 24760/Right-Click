@@ -2,8 +2,6 @@
 
 - git submodule add https://github.com/24760/Git-Ext-Merge.git அறிவிலிநீட்டிஇணை
 - git submodule add https://github.com/247i/7z.git 7ஃ
-- git submodule add https://github.com/247i/7z32.git 7ஃ32
-- git submodule add https://github.com/247i/7z64.git 7ஃ64
 - git submodule add https://github.com/247i/FastCopy.git நகல்வேகம்
 - git submodule add https://github.com/247i/PeaZip.git பட்டாணிசுருக்கு
 - git submodule add https://github.com/247i/TeraCopy.git நகல்பெரிய

@@ -1,9 +1,6 @@
 [submodule "அறிவிலிநீட்டிஇணை"]
 	path = அறிவிலிநீட்டிஇணை
 	url = https://github.com/24760/Git-Ext-Merge.git
-[submodule "7ஃ32"]
-	path = 7ஃ32
-	url = https://github.com/247i/7z32.git
 [submodule "நகல்வேகம்"]
 	path = நகல்வேகம்
 	url = https://github.com/247i/FastCopy.git
@@ -13,9 +10,6 @@
 [submodule "நகல்பெரிய"]
 	path = நகல்பெரிய
 	url = https://github.com/247i/TeraCopy.git
-[submodule "7ஃ64"]
-	path = 7ஃ64
-	url = https://github.com/247i/7z64.git
 [submodule "7ஃ"]
 	path = 7ஃ
 	url = https://github.com/247i/7z.git
