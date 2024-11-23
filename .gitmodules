@@ -13,3 +13,6 @@
 [submodule "7ஃ"]
 	path = 7ஃ
 	url = https://github.com/247i/7z.git
+[submodule "சுமத்ராஎஆவ"]
+	path = சுமத்ராஎஆவ
+	url = https://github.com/247i/sumatrapdf.git
